@@ -11,8 +11,6 @@
 - 🎓 I graduated in Electrical Engineering and self-taught Embedded Systems and IoT development.
 - 🚀 I'm passionate about low-level programming, microcontrollers, real-time systems, and connected devices.
 - 🧠 Strong background in C, C++, Python, TCP/IP, MQTT, UART, I2C, SPI.
-- 🔧 Hands-on experience with AVR, ESP32, and real-world IoT projects.
-- 🎯 Currently diving deeper into Embedded Linux and ROS (Robot Operating System).
 
 ---
 
@@ -29,21 +27,19 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🚪 Smart Door Lock | ESP32-based smart lock with OTP and MQTT control | ESP32, C++, MQTT, Web UI |
-| 🌡️ IoT Weather Station | Sends temperature/humidity to cloud via MQTT | DHT11, ESP32, Python MQTT |
-| 🤖 Line-following Robot | Basic line tracking robot using IR sensors | AVR, C, PWM, Interrupt |
-| 📷 ESP32-CAM Streaming | Live video streaming with ESP32-CAM | ESP32-CAM, WebServer, `multipart/x-mixed-replace` |
+| ⚡ Smart Power Monitoring Device | Monitors voltage, current, power, energy consumption. Remote control, overvoltage/overcurrent protection. Dashboard view on app/web. | ESP32, FireBase, Web Dashboard, Mobile App 
+| 📷 AI Camera with Teachable Machine | ESP32-CAM with object detection powered by Teachable Machine. Supports HTTP, UART, and I2C interfaces. | ESP32-CAM, Teachable Machine, Node red, Web UI |
+| 🤖 Quadruped Robot | Four-legged walking robot using 8 servos with forward and inverse kinematics programming. | Arduino, C++, Servo Control, PWM, Kinematics |
 
-> 👉 Check more at [My Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+> 👉 Check more at [My Repositories](https://github.com/Michla4th/DoAn)
 
 ---
 
 ### 📫 Contact Me
 
-- ✉️ Email: `your.email@gmail.com`
-- 🌐 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- 📘 Facebook: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kha.le.508068) 
-- 🌟 GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- ✉️ Email: `lka.lnguyen1707@gmail.com`
+- 📘 Facebook: [https://facebook.com/your.profile](https://facebook.com/https://www.facebook.com/kha.le.508068))
+- 🌟 GitHub: [github.com/YOUR_USERNAME](https://github.com/Michla4th)
 
 ---
 
