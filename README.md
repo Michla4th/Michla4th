@@ -16,7 +16,7 @@
 
 ### 🧩 Tech Stack
 
-- 👨‍💻 Languages: ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+- 👨‍💻 Languages: `C`, `C++`, `Python`
 - 🔌 Microcontrollers: `AVR`, `ESP32`, `Arduino`, `Raspberry Pi` (learning)
 - 📡 Communication: `UART`, `I2C`, `SPI`, `MQTT`, `HTTP`, `TCP/IP`
 - 📲 Platforms: `PlatformIO`, `Arduino IDE`, `ESP-IDF`
@@ -38,8 +38,8 @@
 ### 📫 Contact Me
 
 - ✉️ Email: `lka.lnguyen1707@gmail.com`
-- 📘 Facebook: [https://facebook.com/your.profile](https://facebook.com/https://www.facebook.com/kha.le.508068))
-- 🌟 GitHub: [github.com/YOUR_USERNAME](https://github.com/Michla4th)
+- 📘 Facebook: [https://facebook.com/kha.le](https://facebook.com/https://www.facebook.com/kha.le.508068)
+- 🌟 GitHub: [github.com/Michla4th](https://github.com/Michla4th)
 
 ---
 
