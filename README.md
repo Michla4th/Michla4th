@@ -27,10 +27,10 @@
 
 | Project | Description | Tech | Link |
 |--------|-------------|------|------|
-| ⚡ Smart Power Monitoring Device | Monitors voltage, current, power, energy consumption. Remote control, overvoltage/overcurrent protection. Dashboard view on app/web. | ESP32, Firebase, Web Dashboard, Mobile App | [🔗 View Code](https://github.com/Michla4th/smart-power-monitor) |
-| 🧩 STEM Blockly App & MiLa:bit | Mobile app for drag-and-drop Blockly & Python programming, Bluetooth wireless code upload, built-in terminal, and custom LEGO-compatible microcontroller hub. | Blockly, Python, BLE, Mobile App, Hardware Design | [🔗 View Code](https://github.com/Michla4th/stem-blockly-app) |
-| 📷 AI Camera with Teachable Machine | ESP32-CAM with object detection powered by Teachable Machine. Supports HTTP, UART, and I2C interfaces. | ESP32-CAM, Teachable Machine, Node-RED, Web UI | [🔗 View Code](https://github.com/Michla4th/esp32-cam-ai) |
-| 🤖 Quadruped Robot | Four-legged walking robot using 8 servos with forward and inverse kinematics programming. | Arduino, C++, Servo Control, PWM, Kinematics | [🔗 View Code](https://github.com/Michla4th/quadruped-robot) |
+| ⚡ Smart Power Monitoring Device | Monitors voltage, current, power, energy consumption. Remote control, overvoltage/overcurrent protection. Dashboard view on app/web. | ESP32, Firebase, Web Dashboard, Mobile App | [🔗 View Code](https://github.com/Michla4th/SmartPowerMonitoringDevice) |
+| 🧩 STEM Blockly App & MiLa:bit | Mobile app for drag-and-drop Blockly & Python programming, Bluetooth wireless code upload, built-in terminal, and custom LEGO-compatible microcontroller hub. | Blockly, Python, BLE, Mobile App, Hardware Design | [🔗 View Code](https://github.com/Michla4th/MLBlock) |
+| 📷 AI Camera with Teachable Machine | ESP32-CAM with object detection powered by Teachable Machine. Supports HTTP, UART, and I2C interfaces. | ESP32-CAM, Teachable Machine, Node-RED, Web UI | [🔗 View Code](https://github.com/Michla4th/CameraAI) |
+| 🤖 Quadruped Robot | Four-legged walking robot using 8 servos with forward and inverse kinematics programming. | Arduino, C++, Servo Control, PWM, Kinematics
 
 > 👉 Check more at [My Repositories](https://github.com/Michla4th?tab=repositories)
 
