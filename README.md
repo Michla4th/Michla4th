@@ -32,7 +32,7 @@
 | 📷 AI Camera with Teachable Machine | ESP32-CAM with object detection powered by Teachable Machine. Supports HTTP, UART, and I2C interfaces. | ESP32-CAM, Teachable Machine, Node red, Web UI |
 | 🤖 Quadruped Robot | Four-legged walking robot using 8 servos with forward and inverse kinematics programming. | Arduino, C++, Servo Control, PWM, Kinematics |
 
-> 👉 Check more at [My Repositories](https://github.com/Michla4th/DoAn)
+> 👉 Check more at [My Repositories](https://github.com/Michla4th?tab=repositories)
 
 ---
 
